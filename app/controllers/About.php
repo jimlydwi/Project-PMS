@@ -8,9 +8,6 @@ class About extends Controller{
 
         $this->view('about/index', $data);
     }
-    // public function page(){
-    //     echo 'About/page';
-    // }
 }
 
 ?>
